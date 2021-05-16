@@ -32,6 +32,7 @@ All workflows afterwards:
 ![cd-allworkflows](./images/cd-allworkflows.png)
 
 **Google Kubernetes Engine Results**
+
 6. Cluster creation (manual)
 ![gke-cluster](./images/gke-cluster.png)
 
