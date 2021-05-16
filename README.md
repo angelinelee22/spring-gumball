@@ -44,7 +44,7 @@ All workflows afterwards:
 
 9. Ingress
 ![gke-createingress](./images/gke-createingress.png)
-![gke-ingress](./images/gke-ingress.png)
+![gke-ingress](./images/gke-ingress_real.png)
 
 10. Success!
 ![gke-success](./images/gke-success.png)
